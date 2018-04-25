@@ -9,6 +9,6 @@ System for managing queues and appointments. Project for the subject web technol
 * [3] load insertar_prueba.php page for get examples of user.
 * [4] You can delete the before pages.
 
-* For create a admin user you can create a user anyone in the database with the parameter "cod profesional" = adm*
+*For create a admin user you can create a user anyone in the database with the parameter "cod profesional" = adm*
 
 
