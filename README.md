@@ -1,2 +1,2 @@
 # subjet web tecnologies
-System for managing queues and appointments. Proyect for the subjet web tecnologies, GII
+System for managing queues and appointments. Project for the subjet web technologies, GII 
