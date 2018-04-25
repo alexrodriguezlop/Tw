@@ -1,5 +1,5 @@
 # subject web technologies
-System for managing queues and appointments. Project for the subject web technologies, GII
+System for managing queues and appointments. Project for the subject "web technologies", GII
 
 
 1. *Installation:*
