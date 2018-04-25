@@ -7,16 +7,8 @@
 
 <?php
 
-//Datos servidor local(Activar CREATE)
-/*
-$servername = "localhost";
-$username = "user";
-$password = "user";
-$db = "TWDB";
-*/
 
-
-//Datos servidor remoto (Desactivar CREATE)
+//Datos servidor remoto
 $servername = "localhost";
 $username = "ejercicio_pw";
 $password = "pass_ejercicio_pw";
