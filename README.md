@@ -1,2 +1,2 @@
-# Tw
-Sistema gestor de citas y colas. Proyecto web asignatura Tw, GII
+#subjet web tecnologies
+System for managing queues and appointments. Proyect for the subjet web tecnologies, GII
